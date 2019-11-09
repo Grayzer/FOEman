@@ -8,14 +8,14 @@ Imports System.Runtime.InteropServices
 
 ' Проверьте значения атрибутов сборки
 
-<Assembly: AssemblyTitle("WindowsApp1")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("WindowsApp1")>
+<Assembly: AssemblyTitle("FOEman")>
+<Assembly: AssemblyDescription("Программа различных вычислений для помощи в игре FOE")>
+<Assembly: AssemblyCompany("Home")>
+<Assembly: AssemblyProduct("FOEman")>
 <Assembly: AssemblyCopyright("Copyright ©  2019")>
 <Assembly: AssemblyTrademark("")>
 
-<Assembly: ComVisible(False)>
+<Assembly: ComVisible(True)>
 
 'Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
 <Assembly: Guid("80efadc2-ae79-4922-bf4f-6e9acd1d7f1b")>

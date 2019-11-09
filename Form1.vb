@@ -5,7 +5,7 @@ Public Class Form1
     Friend BC_lvl As New List(Of String)
     Friend BC_MaxCO As New List(Of String)
     Friend BC_COBack As New List(Of String)
-    Friend doc As XDocument = XDocument.Load("f:\GitHub\Projects\WindowsApp1\BC_List.xml")
+    Friend doc As XDocument = XDocument.Load("f:\GitHub\Projects\FOEman\BC_List.xml")
     Friend CO1 As New Integer
     Friend CO2 As New Integer
     Friend CO3 As New Integer
@@ -216,5 +216,9 @@ Public Class Form1
 
     Private Sub CheckBox5_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox5.Click
         COfill()
+    End Sub
+
+    Private Sub TabPage1_Click(sender As Object, e As EventArgs) Handles TabPage1.Click
+
     End Sub
 End Class
