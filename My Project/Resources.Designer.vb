@@ -61,22 +61,33 @@ Namespace My.Resources
         End Property
         
         '''<summary>
-        '''  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        '''  Ищет локализованную строку, похожую на &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot; ?&gt;
+        '''&lt;BCList&gt;
+        '''  &lt;BC name=&quot;Обсерва&quot;&gt;
+        '''    &lt;level maxCO=&quot;50&quot; COBack=&quot;5&quot;&gt;1&lt;/level&gt;
+        '''    &lt;level maxCO=&quot;70&quot; COBack=&quot;10&quot;&gt;2&lt;/level&gt;
+        '''    &lt;level maxCO=&quot;130&quot; COBack=&quot;15&quot;&gt;3&lt;/level&gt;
+        '''    &lt;level maxCO=&quot;200&quot; COBack=&quot;20&quot;&gt;4&lt;/level&gt;
+        '''    &lt;level maxCO=&quot;270&quot; COBack=&quot;30&quot;&gt;5&lt;/level&gt;
+        '''    &lt;level maxCO=&quot;330&quot; COBack=&quot;35&quot;&gt;6&lt;/level&gt;
+        '''    &lt;level maxCO=&quot;420&quot; COBack=&quot;45&quot;&gt;7&lt;/level&gt;
+        '''    &lt;level maxCO=&quot;490&quot; COBack=&quot;50&quot;&gt;8&lt;/level&gt;
+        '''    &lt;level maxCO=&quot;570&quot; COBack=&quot;60&quot;&gt;9&lt;/level&gt;
+        '''    &lt;level maxCO=&quot;650&quot; COBa [остаток строки не уместился]&quot;;.
         '''</summary>
-        Friend ReadOnly Property foe_image1() As System.Drawing.Bitmap
+        Friend ReadOnly Property BC_List() As String
             Get
-                Dim obj As Object = ResourceManager.GetObject("foe_image1", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
+                Return ResourceManager.GetString("BC_List", resourceCulture)
             End Get
         End Property
         
         '''<summary>
-        '''  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        '''  Поиск локализованного ресурса типа System.Drawing.Icon, аналогичного (Значок).
         '''</summary>
-        Friend ReadOnly Property foe_image2() As System.Drawing.Bitmap
+        Friend ReadOnly Property icons8_greek_helmet_48() As System.Drawing.Icon
             Get
-                Dim obj As Object = ResourceManager.GetObject("foe_image2", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
+                Dim obj As Object = ResourceManager.GetObject("icons8_greek_helmet_48", resourceCulture)
+                Return CType(obj,System.Drawing.Icon)
             End Get
         End Property
     End Module
