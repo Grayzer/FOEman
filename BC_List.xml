@@ -109,6 +109,17 @@
     <level maxCO="6957" COBack="1175">106</level>
     <level maxCO="7131" COBack="1190">107</level>
     <level maxCO="7309" COBack="1200">108</level>
+    <level maxCO="7492" COBack="1215">109</level>
+    <level maxCO="7679" COBack="1230">110</level>
+    <level maxCO="7871" COBack="1240">111</level>
+    <level maxCO="8068" COBack="1255">112</level>
+    <level maxCO="8270" COBack="1270">113</level>
+    <level maxCO="8477" COBack="1280">114</level>
+    <level maxCO="8688" COBack="1295">115</level>
+    <level maxCO="8906" COBack="1310">116</level>
+    <level maxCO="9128" COBack="1325">117</level>
+    <level maxCO="9357" COBack="1335">118</level>
+    <level maxCO="9590" COBack="1350">119</level>
   </BC>
 
   <BC name="Храм">
@@ -220,6 +231,17 @@
     <level maxCO="6957" COBack="1175">106</level>
     <level maxCO="7131" COBack="1190">107</level>
     <level maxCO="7309" COBack="1200">108</level>
+    <level maxCO="7492" COBack="1215">109</level>
+    <level maxCO="7679" COBack="1230">110</level>
+    <level maxCO="7871" COBack="1240">111</level>
+    <level maxCO="8068" COBack="1255">112</level>
+    <level maxCO="8270" COBack="1270">113</level>
+    <level maxCO="8477" COBack="1280">114</level>
+    <level maxCO="8688" COBack="1295">115</level>
+    <level maxCO="8906" COBack="1310">116</level>
+    <level maxCO="9128" COBack="1325">117</level>
+    <level maxCO="9357" COBack="1335">118</level>
+    <level maxCO="9590" COBack="1350">119</level>
   </BC>
 
   <BC name="Оракул">
@@ -331,6 +353,17 @@
     <level maxCO="6957" COBack="1175">106</level>
     <level maxCO="7131" COBack="1190">107</level>
     <level maxCO="7309" COBack="1200">108</level>
+    <level maxCO="7492" COBack="1215">109</level>
+    <level maxCO="7679" COBack="1230">110</level>
+    <level maxCO="7871" COBack="1240">111</level>
+    <level maxCO="8068" COBack="1255">112</level>
+    <level maxCO="8270" COBack="1270">113</level>
+    <level maxCO="8477" COBack="1280">114</level>
+    <level maxCO="8688" COBack="1295">115</level>
+    <level maxCO="8906" COBack="1310">116</level>
+    <level maxCO="9128" COBack="1325">117</level>
+    <level maxCO="9357" COBack="1335">118</level>
+    <level maxCO="9590" COBack="1350">119</level>
   </BC>
 
   <BC name="Вавилон">
@@ -490,6 +523,9 @@
     <level maxCO="17857" COBack="1445">154</level>
     <level maxCO="18304" COBack="1460">155</level>
     <level maxCO="18761" COBack="1470">156</level>
+    <level maxCO="19230" COBack="1480">157</level>
+    <level maxCO="19711" COBack="1490">158</level>
+    <level maxCO="20204" COBack="1505">159</level>
   </BC>
 
   <BC name="Зевс">
@@ -649,6 +685,9 @@
     <level maxCO="17857" COBack="1445">154</level>
     <level maxCO="18304" COBack="1460">155</level>
     <level maxCO="18761" COBack="1470">156</level>
+    <level maxCO="19230" COBack="1480">157</level>
+    <level maxCO="19711" COBack="1490">158</level>
+    <level maxCO="20204" COBack="1505">159</level>
   </BC>
 
   <BC name="Колизей">
@@ -757,6 +796,25 @@
     <level maxCO="5467" COBack="975">103</level>
     <level maxCO="5603" COBack="985">104</level>
     <level maxCO="5743" COBack="995">105</level>
+    <level maxCO="5887" COBack="1010">106</level>
+    <level maxCO="6034" COBack="1020">107</level>
+    <level maxCO="6185" COBack="1030">108</level>
+    <level maxCO="6340" COBack="1040">109</level>
+    <level maxCO="6498" COBack="1055">110</level>
+    <level maxCO="6660" COBack="1065">111</level>
+    <level maxCO="6827" COBack="1075">112</level>
+    <level maxCO="6998" COBack="1090">113</level>
+    <level maxCO="7173" COBack="1100">114</level>
+    <level maxCO="7352" COBack="1110">115</level>
+    <level maxCO="7536" COBack="1125">116</level>
+    <level maxCO="7724" COBack="1135">117</level>
+    <level maxCO="7917" COBack="1145">118</level>
+    <level maxCO="8115" COBack="1160">119</level>
+    <level maxCO="8318" COBack="1170">120</level>
+    <level maxCO="8526" COBack="1180">121</level>
+    <level maxCO="8739" COBack="1195">122</level>
+    <level maxCO="8957" COBack="1205">123</level>
+    <level maxCO="9181" COBack="1215">124</level>
   </BC>
 
   <BC name="Маяк">
@@ -865,6 +923,25 @@
     <level maxCO="5467" COBack="975">103</level>
     <level maxCO="5603" COBack="985">104</level>
     <level maxCO="5743" COBack="995">105</level>
+    <level maxCO="5887" COBack="1010">106</level>
+    <level maxCO="6034" COBack="1020">107</level>
+    <level maxCO="6185" COBack="1030">108</level>
+    <level maxCO="6340" COBack="1040">109</level>
+    <level maxCO="6498" COBack="1055">110</level>
+    <level maxCO="6660" COBack="1065">111</level>
+    <level maxCO="6827" COBack="1075">112</level>
+    <level maxCO="6998" COBack="1090">113</level>
+    <level maxCO="7173" COBack="1100">114</level>
+    <level maxCO="7352" COBack="1110">115</level>
+    <level maxCO="7536" COBack="1125">116</level>
+    <level maxCO="7724" COBack="1135">117</level>
+    <level maxCO="7917" COBack="1145">118</level>
+    <level maxCO="8115" COBack="1160">119</level>
+    <level maxCO="8318" COBack="1170">120</level>
+    <level maxCO="8526" COBack="1180">121</level>
+    <level maxCO="8739" COBack="1195">122</level>
+    <level maxCO="8957" COBack="1205">123</level>
+    <level maxCO="9181" COBack="1215">124</level>
   </BC>
 
   <BC name="София">
@@ -1000,6 +1077,21 @@
     <level maxCO="11615" COBack="1395">130</level>
     <level maxCO="11906" COBack="1405">131</level>
     <level maxCO="12203" COBack="1420">132</level>
+    <level maxCO="12508" COBack="1435">133</level>
+    <level maxCO="12821" COBack="1445">134</level>
+    <level maxCO="13142" COBack="1460">135</level>
+    <level maxCO="13470" COBack="1475">136</level>
+    <level maxCO="13807" COBack="1485">137</level>
+    <level maxCO="14152" COBack="1500">138</level>
+    <level maxCO="14506" COBack="1510">139</level>
+    <level maxCO="14869" COBack="1525">140</level>
+    <level maxCO="15240" COBack="1540">141</level>
+    <level maxCO="15621" COBack="1550">142</level>
+    <level maxCO="16012" COBack="1565">143</level>
+    <level maxCO="16412" COBack="1575">144</level>
+    <level maxCO="16822" COBack="1590">145</level>
+    <level maxCO="17243" COBack="1605">146</level>
+    <level maxCO="17674" COBack="1615">147</level>
   </BC>
 
   <BC name="Ахен">
@@ -1135,6 +1227,21 @@
     <level maxCO="11615" COBack="1395">130</level>
     <level maxCO="11906" COBack="1405">131</level>
     <level maxCO="12203" COBack="1420">132</level>
+    <level maxCO="12508" COBack="1435">133</level>
+    <level maxCO="12821" COBack="1445">134</level>
+    <level maxCO="13142" COBack="1460">135</level>
+    <level maxCO="13470" COBack="1475">136</level>
+    <level maxCO="13807" COBack="1485">137</level>
+    <level maxCO="14152" COBack="1500">138</level>
+    <level maxCO="14506" COBack="1510">139</level>
+    <level maxCO="14869" COBack="1525">140</level>
+    <level maxCO="15240" COBack="1540">141</level>
+    <level maxCO="15621" COBack="1550">142</level>
+    <level maxCO="16012" COBack="1565">143</level>
+    <level maxCO="16412" COBack="1575">144</level>
+    <level maxCO="16822" COBack="1590">145</level>
+    <level maxCO="17243" COBack="1605">146</level>
+    <level maxCO="17674" COBack="1615">147</level>
   </BC>
 
   <BC name="Марк">
@@ -1246,6 +1353,17 @@
     <level maxCO="6957" COBack="1175">106</level>
     <level maxCO="7131" COBack="1190">107</level>
     <level maxCO="7309" COBack="1200">108</level>
+    <level maxCO="7492" COBack="1215">109</level>
+    <level maxCO="7679" COBack="1230">110</level>
+    <level maxCO="7871" COBack="1240">111</level>
+    <level maxCO="8068" COBack="1255">112</level>
+    <level maxCO="8270" COBack="1270">113</level>
+    <level maxCO="8477" COBack="1280">114</level>
+    <level maxCO="8688" COBack="1295">115</level>
+    <level maxCO="8906" COBack="1310">116</level>
+    <level maxCO="9128" COBack="1325">117</level>
+    <level maxCO="9357" COBack="1335">118</level>
+    <level maxCO="9590" COBack="1350">119</level>
   </BC>
 
   <BC name="Нотрдам">
@@ -1357,6 +1475,17 @@
     <level maxCO="6957" COBack="1175">106</level>
     <level maxCO="7131" COBack="1190">107</level>
     <level maxCO="7309" COBack="1200">108</level>
+    <level maxCO="7492" COBack="1215">109</level>
+    <level maxCO="7679" COBack="1230">110</level>
+    <level maxCO="7871" COBack="1240">111</level>
+    <level maxCO="8068" COBack="1255">112</level>
+    <level maxCO="8270" COBack="1270">113</level>
+    <level maxCO="8477" COBack="1280">114</level>
+    <level maxCO="8688" COBack="1295">115</level>
+    <level maxCO="8906" COBack="1310">116</level>
+    <level maxCO="9128" COBack="1325">117</level>
+    <level maxCO="9357" COBack="1335">118</level>
+    <level maxCO="9590" COBack="1350">119</level>
   </BC>
 
   <BC name="Василий">
@@ -1499,6 +1628,17 @@
     <level maxCO="16108" COBack="1715">137</level>
     <level maxCO="16511" COBack="1730">138</level>
     <level maxCO="16923" COBack="1745">139</level>
+    <level maxCO="17347" COBack="1760">140</level>
+    <level maxCO="17780" COBack="1775">141</level>
+    <level maxCO="18225" COBack="1790">142</level>
+    <level maxCO="18680" COBack="1805">143</level>
+    <level maxCO="19147" COBack="1820">144</level>
+    <level maxCO="19626" COBack="1835">145</level>
+    <level maxCO="20117" COBack="1850">146</level>
+    <level maxCO="20620" COBack="1865">147</level>
+    <level maxCO="21135" COBack="1880">148</level>
+    <level maxCO="21663" COBack="1895">149</level>
+    <level maxCO="22205" COBack="1910">150</level>
   </BC>
 
   <BC name="Кастель">
@@ -1641,6 +1781,17 @@
     <level maxCO="16108" COBack="1715">137</level>
     <level maxCO="16511" COBack="1730">138</level>
     <level maxCO="16923" COBack="1745">139</level>
+    <level maxCO="17347" COBack="1760">140</level>
+    <level maxCO="17780" COBack="1775">141</level>
+    <level maxCO="18225" COBack="1790">142</level>
+    <level maxCO="18680" COBack="1805">143</level>
+    <level maxCO="19147" COBack="1820">144</level>
+    <level maxCO="19626" COBack="1835">145</level>
+    <level maxCO="20117" COBack="1850">146</level>
+    <level maxCO="20620" COBack="1865">147</level>
+    <level maxCO="21135" COBack="1880">148</level>
+    <level maxCO="21663" COBack="1895">149</level>
+    <level maxCO="22205" COBack="1910">150</level>
   </BC>
 
   <BC name="Дильский">
@@ -1745,6 +1896,16 @@
     <level maxCO="6663" COBack="1235">99</level>
     <level maxCO="6830" COBack="1250">100</level>
     <level maxCO="7001" COBack="1265">101</level>
+    <level maxCO="7176" COBack="1280">102</level>
+    <level maxCO="7355" COBack="1295">103</level>
+    <level maxCO="7539" COBack="1310">104</level>
+    <level maxCO="7727" COBack="1325">105</level>
+    <level maxCO="7920" COBack="1345">106</level>
+    <level maxCO="8118" COBack="1355">107</level>
+    <level maxCO="8321" COBack="1375">108</level>
+    <level maxCO="8529" COBack="1390">109</level>
+    <level maxCO="8743" COBack="1405">110</level>
+    <level maxCO="8961" COBack="1420">111</level>
   </BC>
 
   <BC name="Фрауэнкирхе">
@@ -1849,6 +2010,16 @@
     <level maxCO="6663" COBack="1235">99</level>
     <level maxCO="6830" COBack="1250">100</level>
     <level maxCO="7001" COBack="1265">101</level>
+    <level maxCO="7176" COBack="1280">102</level>
+    <level maxCO="7355" COBack="1295">103</level>
+    <level maxCO="7539" COBack="1310">104</level>
+    <level maxCO="7727" COBack="1325">105</level>
+    <level maxCO="7920" COBack="1345">106</level>
+    <level maxCO="8118" COBack="1355">107</level>
+    <level maxCO="8321" COBack="1375">108</level>
+    <level maxCO="8529" COBack="1390">109</level>
+    <level maxCO="8743" COBack="1405">110</level>
+    <level maxCO="8961" COBack="1420">111</level>
   </BC>
 
   <BC name="Капитолий">
@@ -1955,6 +2126,10 @@
     <level maxCO="7474" COBack="1345">101</level>
     <level maxCO="7660" COBack="1360">102</level>
     <level maxCO="7852" COBack="1375">103</level>
+    <level maxCO="8048" COBack="1395">104</level>
+    <level maxCO="8249" COBack="1410">105</level>
+    <level maxCO="8456" COBack="1425">106</level>
+    <level maxCO="8667" COBack="1440">107</level>
   </BC>
 
   <BC name="Альберт">
@@ -2061,6 +2236,10 @@
     <level maxCO="7474" COBack="1345">101</level>
     <level maxCO="7660" COBack="1360">102</level>
     <level maxCO="7852" COBack="1375">103</level>
+    <level maxCO="8048" COBack="1395">104</level>
+    <level maxCO="8249" COBack="1410">105</level>
+    <level maxCO="8456" COBack="1425">106</level>
+    <level maxCO="8667" COBack="1440">107</level>
   </BC>
 
   <BC name="Шато">
@@ -2235,6 +2414,24 @@
     <level maxCO="42090" COBack="2645">169</level>
     <level maxCO="43142" COBack="2665">170</level>
     <level maxCO="44221" COBack="2685">171</level>
+    <level maxCO="45326" COBack="2705">172</level>
+    <level maxCO="46459" COBack="2720">173</level>
+    <level maxCO="47621" COBack="2740">174</level>
+    <level maxCO="48811" COBack="2760">175</level>
+    <level maxCO="50032" COBack="2780">176</level>
+    <level maxCO="51282" COBack="2800">177</level>
+    <level maxCO="52564" COBack="2815">178</level>
+    <level maxCO="53878" COBack="2835">179</level>
+    <level maxCO="55225" COBack="2855">180</level>
+    <level maxCO="56606" COBack="2875">181</level>
+    <level maxCO="58021" COBack="2895">182</level>
+    <level maxCO="59472" COBack="2910">183</level>
+    <level maxCO="60958" COBack="2930">184</level>
+    <level maxCO="62482" COBack="2950">185</level>
+    <level maxCO="64044" COBack="2970">186</level>
+    <level maxCO="65646" COBack="2990">187</level>
+    <level maxCO="67287" COBack="3010">188</level>
+    <level maxCO="68969" COBack="3030">189</level>
   </BC>
 
   <BC name="Алькатрас">
@@ -2409,6 +2606,24 @@
     <level maxCO="42090" COBack="2645">169</level>
     <level maxCO="43142" COBack="2665">170</level>
     <level maxCO="44221" COBack="2685">171</level>
+    <level maxCO="45326" COBack="2705">172</level>
+    <level maxCO="46459" COBack="2720">173</level>
+    <level maxCO="47621" COBack="2740">174</level>
+    <level maxCO="48811" COBack="2760">175</level>
+    <level maxCO="50032" COBack="2780">176</level>
+    <level maxCO="51282" COBack="2800">177</level>
+    <level maxCO="52564" COBack="2815">178</level>
+    <level maxCO="53878" COBack="2835">179</level>
+    <level maxCO="55225" COBack="2855">180</level>
+    <level maxCO="56606" COBack="2875">181</level>
+    <level maxCO="58021" COBack="2895">182</level>
+    <level maxCO="59472" COBack="2910">183</level>
+    <level maxCO="60958" COBack="2930">184</level>
+    <level maxCO="62482" COBack="2950">185</level>
+    <level maxCO="64044" COBack="2970">186</level>
+    <level maxCO="65646" COBack="2990">187</level>
+    <level maxCO="67287" COBack="3010">188</level>
+    <level maxCO="68969" COBack="3030">189</level>
   </BC>
 
   <BC name="Спейс">
@@ -2513,6 +2728,15 @@
     <level maxCO="7924" COBack="1470">99</level>
     <level maxCO="8122" COBack="1485">100</level>
     <level maxCO="8325" COBack="1505">101</level>
+    <level maxCO="8533" COBack="1520">102</level>
+    <level maxCO="8746" COBack="1540">103</level>
+    <level maxCO="8965" COBack="1555">104</level>
+    <level maxCO="9189" COBack="1575">105</level>
+    <level maxCO="9419" COBack="1595">106</level>
+    <level maxCO="9654" COBack="1610">107</level>
+    <level maxCO="9896" COBack="1630">108</level>
+    <level maxCO="10143" COBack="1650">109</level>
+    <level maxCO="10397" COBack="1665">110</level>
   </BC>
 
   <BC name="Атомиум">
@@ -2617,6 +2841,15 @@
     <level maxCO="7924" COBack="1470">99</level>
     <level maxCO="8122" COBack="1485">100</level>
     <level maxCO="8325" COBack="1505">101</level>
+    <level maxCO="8533" COBack="1520">102</level>
+    <level maxCO="8746" COBack="1540">103</level>
+    <level maxCO="8965" COBack="1555">104</level>
+    <level maxCO="9189" COBack="1575">105</level>
+    <level maxCO="9419" COBack="1595">106</level>
+    <level maxCO="9654" COBack="1610">107</level>
+    <level maxCO="9896" COBack="1630">108</level>
+    <level maxCO="10143" COBack="1650">109</level>
+    <level maxCO="10397" COBack="1665">110</level>
   </BC>
 
   <BC name="Ракета">
@@ -2756,6 +2989,8 @@
     <level maxCO="18804" COBack="2225">134</level>
     <level maxCO="19274" COBack="2245">135</level>
     <level maxCO="19756" COBack="2265">136</level>
+    <level maxCO="20250" COBack="2285">137</level>
+    <level maxCO="20756" COBack="1305">138</level>
   </BC>
 
   <BC name="Хабитат">
@@ -2895,6 +3130,8 @@
     <level maxCO="18804" COBack="2225">134</level>
     <level maxCO="19274" COBack="2245">135</level>
     <level maxCO="19756" COBack="2265">136</level>
+    <level maxCO="20250" COBack="2285">137</level>
+    <level maxCO="20756" COBack="1305">138</level>
   </BC>
 
   <BC name="Лотос">
@@ -3019,6 +3256,13 @@
     <level maxCO="12984" COBack="2025">119</level>
     <level maxCO="13308" COBack="2045">120</level>
     <level maxCO="13641" COBack="2065">121</level>
+    <level maxCO="13982" COBack="2085">122</level>
+    <level maxCO="14332" COBack="2105">123</level>
+    <level maxCO="14690" COBack="2125">124</level>
+    <level maxCO="15057" COBack="2150">125</level>
+    <level maxCO="15434" COBack="2170">126</level>
+    <level maxCO="15819" COBack="2190">127</level>
+    <level maxCO="16215" COBack="2210">128</level>
   </BC>
 
   <BC name="Иннова">
@@ -3143,9 +3387,16 @@
     <level maxCO="12984" COBack="2025">119</level>
     <level maxCO="13308" COBack="2045">120</level>
     <level maxCO="13641" COBack="2065">121</level>
+    <level maxCO="13982" COBack="2085">122</level>
+    <level maxCO="14332" COBack="2105">123</level>
+    <level maxCO="14690" COBack="2125">124</level>
+    <level maxCO="15057" COBack="2150">125</level>
+    <level maxCO="15434" COBack="2170">126</level>
+    <level maxCO="15819" COBack="2190">127</level>
+    <level maxCO="16215" COBack="2210">128</level>
   </BC>
 
-  <BC name="Вращалка">
+  <BC name="Перемирие">
     <level maxCO="70" COBack="10">1</level>
     <level maxCO="100" COBack="15">2</level>
     <level maxCO="190" COBack="20">3</level>
@@ -3248,6 +3499,8 @@
     <level maxCO="8583" COBack="1720">100</level>
     <level maxCO="8798" COBack="1740">101</level>
     <level maxCO="9018" COBack="1760">102</level>
+    <level maxCO="9243" COBack="1780">103</level>
+    <level maxCO="9474" COBack="1805">104</level>
   </BC>
 
   <BC name="Вояджер">
@@ -3353,6 +3606,8 @@
     <level maxCO="8583" COBack="1720">100</level>
     <level maxCO="8798" COBack="1740">101</level>
     <level maxCO="9018" COBack="1760">102</level>
+    <level maxCO="9243" COBack="1780">103</level>
+    <level maxCO="9474" COBack="1805">104</level>
   </BC>
 
   <BC name="Арка">
@@ -3865,6 +4120,25 @@
     <level maxCO="24312" COBack="2690">135</level>
     <level maxCO="24919" COBack="2715">136</level>
     <level maxCO="25542" COBack="2740">137</level>
+    <level maxCO="26181" COBack="2765">138</level>
+    <level maxCO="26836" COBack="2790">139</level>
+    <level maxCO="27506" COBack="2815">140</level>
+    <level maxCO="28194" COBack="2835">141</level>
+    <level maxCO="28899" COBack="2860">142</level>
+    <level maxCO="29621" COBack="2885">143</level>
+    <level maxCO="30362" COBack="2910">144</level>
+    <level maxCO="31121" COBack="2935">145</level>
+    <level maxCO="31899" COBack="2960">146</level>
+    <level maxCO="32696" COBack="2985">147</level>
+    <level maxCO="33514" COBack="3010">148</level>
+    <level maxCO="34352" COBack="3030">149</level>
+    <level maxCO="35210" COBack="3055">150</level>
+    <level maxCO="36091" COBack="3080">151</level>
+    <level maxCO="36993" COBack="3105">152</level>
+    <level maxCO="37918" COBack="3130">153</level>
+    <level maxCO="38866" COBack="3155">154</level>
+    <level maxCO="39837" COBack="3180">155</level>
+    <level maxCO="40833" COBack="3205">156</level>
   </BC>
 
   <BC name="Снежинка">
@@ -4005,6 +4279,25 @@
     <level maxCO="24312" COBack="2690">135</level>
     <level maxCO="24919" COBack="2715">136</level>
     <level maxCO="25542" COBack="2740">137</level>
+    <level maxCO="26181" COBack="2765">138</level>
+    <level maxCO="26836" COBack="2790">139</level>
+    <level maxCO="27506" COBack="2815">140</level>
+    <level maxCO="28194" COBack="2835">141</level>
+    <level maxCO="28899" COBack="2860">142</level>
+    <level maxCO="29621" COBack="2885">143</level>
+    <level maxCO="30362" COBack="2910">144</level>
+    <level maxCO="31121" COBack="2935">145</level>
+    <level maxCO="31899" COBack="2960">146</level>
+    <level maxCO="32696" COBack="2985">147</level>
+    <level maxCO="33514" COBack="3010">148</level>
+    <level maxCO="34352" COBack="3030">149</level>
+    <level maxCO="35210" COBack="3055">150</level>
+    <level maxCO="36091" COBack="3080">151</level>
+    <level maxCO="36993" COBack="3105">152</level>
+    <level maxCO="37918" COBack="3130">153</level>
+    <level maxCO="38866" COBack="3155">154</level>
+    <level maxCO="39837" COBack="3180">155</level>
+    <level maxCO="40833" COBack="3205">156</level>
   </BC>
 
   <BC name="Зерно">
@@ -4145,6 +4438,25 @@
     <level maxCO="24312" COBack="2690">135</level>
     <level maxCO="24919" COBack="2715">136</level>
     <level maxCO="25542" COBack="2740">137</level>
+    <level maxCO="26181" COBack="2765">138</level>
+    <level maxCO="26836" COBack="2790">139</level>
+    <level maxCO="27506" COBack="2815">140</level>
+    <level maxCO="28194" COBack="2835">141</level>
+    <level maxCO="28899" COBack="2860">142</level>
+    <level maxCO="29621" COBack="2885">143</level>
+    <level maxCO="30362" COBack="2910">144</level>
+    <level maxCO="31121" COBack="2935">145</level>
+    <level maxCO="31899" COBack="2960">146</level>
+    <level maxCO="32696" COBack="2985">147</level>
+    <level maxCO="33514" COBack="3010">148</level>
+    <level maxCO="34352" COBack="3030">149</level>
+    <level maxCO="35210" COBack="3055">150</level>
+    <level maxCO="36091" COBack="3080">151</level>
+    <level maxCO="36993" COBack="3105">152</level>
+    <level maxCO="37918" COBack="3130">153</level>
+    <level maxCO="38866" COBack="3155">154</level>
+    <level maxCO="39837" COBack="3180">155</level>
+    <level maxCO="40833" COBack="3205">156</level>
   </BC>
 
   <BC name="Музей">
@@ -4261,6 +4573,9 @@
     <level maxCO="14047" COBack="2215">111</level>
     <level maxCO="14398" COBack="2240">112</level>
     <level maxCO="14758" COBack="2265">113</level>
+    <level maxCO="15127" COBack="2290">114</level>
+    <level maxCO="15505" COBack="2310">115</level>
+    <level maxCO="15893" COBack="2335">116</level>
   </BC>
 
   <BC name="Кракен">
@@ -4377,6 +4692,9 @@
     <level maxCO="14047" COBack="2215">111</level>
     <level maxCO="14398" COBack="2240">112</level>
     <level maxCO="14758" COBack="2265">113</level>
+    <level maxCO="15127" COBack="2290">114</level>
+    <level maxCO="15505" COBack="2310">115</level>
+    <level maxCO="15893" COBack="2335">116</level>
   </BC>
 
   <BC name="Галактика">
@@ -4493,6 +4811,9 @@
     <level maxCO="14047" COBack="2215">111</level>
     <level maxCO="14398" COBack="2240">112</level>
     <level maxCO="14758" COBack="2265">113</level>
+    <level maxCO="15127" COBack="2290">114</level>
+    <level maxCO="15505" COBack="2310">115</level>
+    <level maxCO="15893" COBack="2335">116</level>
   </BC>
 
   <BC name="Терракот">
@@ -4614,6 +4935,17 @@
     <level maxCO="16578" COBack="2430">116</level>
     <level maxCO="16992" COBack="2455">117</level>
     <level maxCO="17417" COBack="2480">118</level>
+    <level maxCO="17852" COBack="2505">119</level>
+    <level maxCO="18299" COBack="2530">120</level>
+    <level maxCO="18756" COBack="2555">121</level>
+    <level maxCO="19225" COBack="2580">122</level>
+    <level maxCO="19706" COBack="2610">123</level>
+    <level maxCO="20198" COBack="2635">124</level>
+    <level maxCO="20703" COBack="2660">125</level>
+    <level maxCO="21221" COBack="2685">126</level>
+    <level maxCO="21751" COBack="2710">127</level>
+    <level maxCO="22295" COBack="2735">128</level>
+    <level maxCO="22853" COBack="2760">129</level>
   </BC>
 
   <BC name="Химеджи">
@@ -4735,6 +5067,17 @@
     <level maxCO="16578" COBack="2430">116</level>
     <level maxCO="16992" COBack="2455">117</level>
     <level maxCO="17417" COBack="2480">118</level>
+    <level maxCO="17852" COBack="2505">119</level>
+    <level maxCO="18299" COBack="2530">120</level>
+    <level maxCO="18756" COBack="2555">121</level>
+    <level maxCO="19225" COBack="2580">122</level>
+    <level maxCO="19706" COBack="2610">123</level>
+    <level maxCO="20198" COBack="2635">124</level>
+    <level maxCO="20703" COBack="2660">125</level>
+    <level maxCO="21221" COBack="2685">126</level>
+    <level maxCO="21751" COBack="2710">127</level>
+    <level maxCO="22295" COBack="2735">128</level>
+    <level maxCO="22853" COBack="2760">129</level>
   </BC>
 
   <BC name="Звездочёт">
@@ -4801,6 +5144,49 @@
     <level maxCO="4404" COBack="1160">61</level>
     <level maxCO="4514" COBack="1185">62</level>
     <level maxCO="4627" COBack="1210">63</level>
+    <level maxCO="4743" COBack="1230">64</level>
+    <level maxCO="4861" COBack="1255">65</level>
+    <level maxCO="4983" COBack="1280">66</level>
+    <level maxCO="5108" COBack="1300">67</level>
+    <level maxCO="5235" COBack="1325">68</level>
+    <level maxCO="5366" COBack="1350">69</level>
+    <level maxCO="5500" COBack="1370">70</level>
+    <level maxCO="5638" COBack="1395">71</level>
+    <level maxCO="5779" COBack="1420">72</level>
+    <level maxCO="5923" COBack="1445">73</level>
+    <level maxCO="6071" COBack="1470">74</level>
+    <level maxCO="6223" COBack="1490">75</level>
+    <level maxCO="6379" COBack="1515">76</level>
+    <level maxCO="6538" COBack="1540">77</level>
+    <level maxCO="6701" COBack="1565">78</level>
+    <level maxCO="6869" COBack="1590">79</level>
+    <level maxCO="7041" COBack="1615">80</level>
+    <level maxCO="7217" COBack="1635">81</level>
+    <level maxCO="7397" COBack="1660">82</level>
+    <level maxCO="7582" COBack="1685">83</level>
+    <level maxCO="7771" COBack="1710">84</level>
+    <level maxCO="7966" COBack="1735">85</level>
+    <level maxCO="8165" COBack="1760">86</level>
+    <level maxCO="8369" COBack="1785">87</level>
+    <level maxCO="8578" COBack="1810">88</level>
+    <level maxCO="8793" COBack="1835">89</level>
+    <level maxCO="9012" COBack="1860">90</level>
+    <level maxCO="9238" COBack="1885">91</level>
+    <level maxCO="9469" COBack="1910">92</level>
+    <level maxCO="9705" COBack="1935">93</level>
+    <level maxCO="9948" COBack="1960">94</level>
+    <level maxCO="10197" COBack="1985">95</level>
+    <level maxCO="10452" COBack="2010">96</level>
+    <level maxCO="10713" COBack="2035">97</level>
+    <level maxCO="10981" COBack="2060">98</level>
+    <level maxCO="11255" COBack="2085">99</level>
+    <level maxCO="11537" COBack="2110">100</level>
+    <level maxCO="11825" COBack="2135">101</level>
+    <level maxCO="12121" COBack="2160">102</level>
+    <level maxCO="12424" COBack="2185">103</level>
+    <level maxCO="12734" COBack="2215">104</level>
+    <level maxCO="13053" COBack="2240">105</level>
+    <level maxCO="13379" COBack="2265">106</level>
   </BC>
 
   <BC name="Дева">
@@ -4867,6 +5253,134 @@
     <level maxCO="4404" COBack="1160">61</level>
     <level maxCO="4514" COBack="1185">62</level>
     <level maxCO="4627" COBack="1210">63</level>
+    <level maxCO="4743" COBack="1230">64</level>
+    <level maxCO="4861" COBack="1255">65</level>
+    <level maxCO="4983" COBack="1280">66</level>
+    <level maxCO="5108" COBack="1300">67</level>
+    <level maxCO="5235" COBack="1325">68</level>
+    <level maxCO="5366" COBack="1350">69</level>
+    <level maxCO="5500" COBack="1370">70</level>
+    <level maxCO="5638" COBack="1395">71</level>
+    <level maxCO="5779" COBack="1420">72</level>
+    <level maxCO="5923" COBack="1445">73</level>
+    <level maxCO="6071" COBack="1470">74</level>
+    <level maxCO="6223" COBack="1490">75</level>
+    <level maxCO="6379" COBack="1515">76</level>
+    <level maxCO="6538" COBack="1540">77</level>
+    <level maxCO="6701" COBack="1565">78</level>
+    <level maxCO="6869" COBack="1590">79</level>
+    <level maxCO="7041" COBack="1615">80</level>
+    <level maxCO="7217" COBack="1635">81</level>
+    <level maxCO="7397" COBack="1660">82</level>
+    <level maxCO="7582" COBack="1685">83</level>
+    <level maxCO="7771" COBack="1710">84</level>
+    <level maxCO="7966" COBack="1735">85</level>
+    <level maxCO="8165" COBack="1760">86</level>
+    <level maxCO="8369" COBack="1785">87</level>
+    <level maxCO="8578" COBack="1810">88</level>
+    <level maxCO="8793" COBack="1835">89</level>
+    <level maxCO="9012" COBack="1860">90</level>
+    <level maxCO="9238" COBack="1885">91</level>
+    <level maxCO="9469" COBack="1910">92</level>
+    <level maxCO="9705" COBack="1935">93</level>
+    <level maxCO="9948" COBack="1960">94</level>
+    <level maxCO="10197" COBack="1985">95</level>
+    <level maxCO="10452" COBack="2010">96</level>
+    <level maxCO="10713" COBack="2035">97</level>
+    <level maxCO="10981" COBack="2060">98</level>
+    <level maxCO="11255" COBack="2085">99</level>
+    <level maxCO="11537" COBack="2110">100</level>
+    <level maxCO="11825" COBack="2135">101</level>
+    <level maxCO="12121" COBack="2160">102</level>
+    <level maxCO="12424" COBack="2185">103</level>
+    <level maxCO="12734" COBack="2215">104</level>
+    <level maxCO="13053" COBack="2240">105</level>
+    <level maxCO="13379" COBack="2265">106</level>
+  </BC>
+
+  <BC name="Авианосец">
+    <level maxCO="90" COBack="10">1</level>
+    <level maxCO="150" COBack="15">2</level>
+    <level maxCO="260" COBack="30">3</level>
+    <level maxCO="390" COBack="40">4</level>
+    <level maxCO="540" COBack="55">5</level>
+    <level maxCO="670" COBack="70">6</level>
+    <level maxCO="830" COBack="85">7</level>
+    <level maxCO="990" COBack="100">8</level>
+    <level maxCO="1140" COBack="115">9</level>
+    <level maxCO="1300" COBack="130">10</level>
+    <level maxCO="1333" COBack="150">11</level>
+    <level maxCO="1366" COBack="165">12</level>
+    <level maxCO="1400" COBack="185">13</level>
+    <level maxCO="1435" COBack="200">14</level>
+    <level maxCO="1471" COBack="220">15</level>
+    <level maxCO="1508" COBack="235">16</level>
+    <level maxCO="1546" COBack="255">17</level>
+    <level maxCO="1584" COBack="275">18</level>
+    <level maxCO="1624" COBack="295">19</level>
+    <level maxCO="1665" COBack="310">20</level>
+    <level maxCO="1706" COBack="330">21</level>
+    <level maxCO="1749" COBack="350">22</level>
+    <level maxCO="1793" COBack="370">23</level>
+    <level maxCO="1837" COBack="390">24</level>
+    <level maxCO="1883" COBack="410">25</level>
+    <level maxCO="1930" COBack="430">26</level>
+    <level maxCO="1979" COBack="450">27</level>
+    <level maxCO="2028" COBack="470">28</level>
+    <level maxCO="2079" COBack="490">29</level>
+    <level maxCO="2131" COBack="510">30</level>
+    <level maxCO="2184" COBack="530">31</level>
+    <level maxCO="2239" COBack="550">32</level>
+    <level maxCO="2294" COBack="575">33</level>
+    <level maxCO="2352" COBack="595">34</level>
+    <level maxCO="2411" COBack="615">35</level>
+    <level maxCO="2471" COBack="635">36</level>
+    <level maxCO="2533" COBack="660">37</level>
+    <level maxCO="2596" COBack="680">38</level>
+    <level maxCO="2661" COBack="700">39</level>
+    <level maxCO="2727" COBack="725">40</level>
+    <level maxCO="2796" COBack="745">41</level>
+    <level maxCO="2865" COBack="770">42</level>
+    <level maxCO="2937" COBack="790">43</level>
+    <level maxCO="3010" COBack="810">44</level>
+    <level maxCO="3086" COBack="835">45</level>
+    <level maxCO="3163" COBack="855">46</level>
+    <level maxCO="3242" COBack="880">47</level>
+    <level maxCO="3323" COBack="905">48</level>
+    <level maxCO="3406" COBack="925">49</level>
+    <level maxCO="3491" COBack="950">50</level>
+    <level maxCO="3578" COBack="970">51</level>
+    <level maxCO="3668" COBack="995">52</level>
+    <level maxCO="3759" COBack="1015">53</level>
+    <level maxCO="3853" COBack="1040">54</level>
+    <level maxCO="3950" COBack="1065">55</level>
+    <level maxCO="4049" COBack="1085">56</level>
+    <level maxCO="4150" COBack="1110">57</level>
+    <level maxCO="4253" COBack="1135">58</level>
+    <level maxCO="4360" COBack="1160">59</level>
+    <level maxCO="4469" COBack="1180">60</level>
+    <level maxCO="4580" COBack="1205">61</level>
+    <level maxCO="4695" COBack="1230">62</level>
+    <level maxCO="4812" COBack="1255">63</level>
+    <level maxCO="4933" COBack="1275">64</level>
+    <level maxCO="5056" COBack="1300">65</level>
+    <level maxCO="5182" COBack="1325">66</level>
+    <level maxCO="5312" COBack="1350">67</level>
+    <level maxCO="5445" COBack="1375">68</level>
+    <level maxCO="5581" COBack="1400">69</level>
+    <level maxCO="5720" COBack="1425">70</level>
+    <level maxCO="5863" COBack="1450">71</level>
+    <level maxCO="6010" COBack="1470">72</level>
+    <level maxCO="6160" COBack="1500">73</level>
+    <level maxCO="6314" COBack="1520">74</level>
+    <level maxCO="6472" COBack="1545">75</level>
+    <level maxCO="6634" COBack="1570">76</level>
+    <level maxCO="6799" COBack="1595">77</level>
+    <level maxCO="6969" COBack="1620">78</level>
+    <level maxCO="7144" COBack="1650">79</level>
+    <level maxCO="7322" COBack="1670">80</level>
+    <level maxCO="7505" COBack="1685">81</level>
+
   </BC>
 
 </BCList>
